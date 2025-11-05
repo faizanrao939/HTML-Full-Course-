@@ -3,7 +3,6 @@
  Learn HTML step by step with real examples and previewable code — perfect for web development beginners!
 
 
- What is HTML?
 HTML (HyperText Markup Language) is the standard language for creating webpages.
 It tells the browser what to display (text, images, links, buttons, etc.).
 
